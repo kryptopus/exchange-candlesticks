@@ -3,4 +3,7 @@ LOG
 LOG.old
 *.log
 
+*-*-*-*
+!*-*-*-5m
+
 node_modules
