@@ -1,0 +1,7 @@
+{
+    "name": "@kryptopus/exchange-candlesticks",
+    "dependencies": {
+        "level": "^5.0.1",
+        "msgpack5": "^4.2.1"
+    }
+}
